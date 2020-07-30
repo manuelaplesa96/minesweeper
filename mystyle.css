@@ -1,0 +1,64 @@
+h1 {
+    background-color: #ffcc00;
+    color: #808080;
+    font-family: "Arial", Courier, monospace;
+    text-align: center;
+}
+
+h3{
+    color: #808080;
+    font-family: "Arial", Courier, monospace;
+    text-align: center;
+}
+
+canvas {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-style: ridge;
+}
+
+button{
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#maybe{
+    color: #808080;
+    font-family: "Arial", Courier, monospace;
+    text-align: center; 
+    background-color: #ffcc00;
+    border: 1px solid #808080;
+    width: 50px;
+    padding: 10px 10px;
+    font-size: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+input
+{
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+}
+
+#error{
+    color: #4d4d4d;
+    font-family: "Arial", Courier, monospace;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+    font-size: 20px;
+}
